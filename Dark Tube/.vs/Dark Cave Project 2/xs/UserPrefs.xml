@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{493F482B-841F-2C28-AC3E-15A15B3CF4BF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player Scripts/PlayerWalk.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gameplay Scripts/GameplayController.cs" Line="66" Column="11" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerWalk.cs" Line="26" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dark Cave Project 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player Scripts" expanded="True">
+                  <Node name="PlayerWalk.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5b5b5282-067c-418b-9c71-971e166afb53" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
